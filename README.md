@@ -1,5 +1,5 @@
 # Search 'n' Sort
-*Note: This is for a school project and is purely for reference. It is not to be taken seriously but help would be appriciated :)
+*Note: This is for a school project and is purely for reference. It is not to be taken seriously but help would be appriciated* :)
 
 ## Contents
 - [Introduction](#intro)
