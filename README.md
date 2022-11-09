@@ -8,7 +8,7 @@
 - [License](#license)
 - [Disclaimer](#disclaimer)
 
-## Intro
+## Introduction
 This project is a referance guide to several different Search algorithms and Sort algorithms.
 They can be used in any projects or resources that you need. 
 
